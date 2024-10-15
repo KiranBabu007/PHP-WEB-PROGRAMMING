@@ -8,7 +8,7 @@
 <body> 
     
 <form action="" method="GET">
-        <label for="">User Name</label>
+        <label for=""> Name</label>
         <input name="username" id="username" type="text"> <br>
         <br>
         <label for="">Password:</label>

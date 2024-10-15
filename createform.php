@@ -6,10 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="connect.php" method="post">
-  <p><label>Text to Add</label></p>
-  <input type="text" name="textfield"> 
-  <input type="submit" value="Insert">  
+    <form action="connecttable.php" method="post">
+  <label for="">Click to create Table</label>
+  <input type="submit" value="Create Table">  
 </form>
 </body>
 </html>
